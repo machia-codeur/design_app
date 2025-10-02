@@ -1,0 +1,5 @@
+{
+  "name": "Product Scene Generator",
+  "description": "Generate a merged image of a product with a specified logo, being used by a subject in a specified scene. Upload a product image, a logo image, and describe the subject and scene to create a unique promotional image.",
+  "requestFramePermissions": []
+}
